@@ -1,7 +1,7 @@
 main:
-  - title: "Posts"
+  - title: "Publications"
     url: /posts/
-  - title: "Categories"
+  - title: "CV"
     url: /categories/
   - title: "Tags"
     url: /tags/
